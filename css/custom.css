@@ -1,0 +1,26 @@
+body{
+    background-color: none;
+}
+
+.container{
+    background-color: rosybrown;
+    margin-top: 20px;
+}
+
+.container h1{
+    text-align: center;
+    margin-top: 15px;
+    margin-bottom: 10px;
+}
+
+#displayResult{
+    display: flex;
+    background-color: blueviolet;
+    margin-bottom: 40px;
+    height: 80%;
+}
+
+#btn5{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
